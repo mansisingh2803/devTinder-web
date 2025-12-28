@@ -20,6 +20,20 @@
 - Refactor our code to add constants file+ create component folder
 - You should not be access other routes without login
 - If token is not present, redirect user to login page
+- Logout
+- Get the feed and add the feed in the store
+- Build the user card on feed
+- Profile
+- Edit Profile Features
+- Toast message
+- See all my connections
+- See all my connection request
+- Feature - Accept/Reject connection request
+
+Remaining:
+- Send/Ignore the user card from Feed
+- Signup new user
+- E3ETesting
 
 
 
