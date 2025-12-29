@@ -29,11 +29,9 @@
 - See all my connections
 - See all my connection request
 - Feature - Accept/Reject connection request
-
-Remaining:
 - Send/Ignore the user card from Feed
 - Signup new user
-- E3ETesting
+- E2ETesting
 
 
 
