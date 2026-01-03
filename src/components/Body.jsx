@@ -1,5 +1,5 @@
 import { Outlet, useNavigate } from "react-router-dom";
-import NavBar from "./Navbar";
+import NavBar from "./NavBar.jsx";
 import Footer from "./Footer";
 import { BASE_URL } from "../utils/constants";
 import { addUser } from "../utils/userSlice";

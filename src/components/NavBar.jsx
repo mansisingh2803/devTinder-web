@@ -22,46 +22,6 @@ const NavBar = () =>{
   }
 
     return(
-//         <div className="navbar bg-secondary shadow-sm">
-//   <div className="flex-1">
-//     <a className="btn btn-ghost text-xl">CodeMate👩‍💻</a>
-//   </div>
-//   <div className="flex gap-2">
-//    {user && 
-//    ( 
-//     <div className="dropdown dropdown-end mx-10 flex items-center">
-//       <p className="px-4">Welcome, {user.firstName}</p>
-//       <div tabIndex={0} role="button" className="btn btn-ghost btn-circle avatar">
-//         <div className="w-10 rounded-full">
-//           <img
-//             alt="User Photo"
-//             src={user.photoUrl} />
-//         </div>
-//       </div>
-//       <ul
-//         tabIndex={0}
-//         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-//         <li>
-//           <Link to="/profile" className="justify-between hover:bg-gray-800 rounded-md p-2">
-//                     Profile <span className="badge badge-success">New</span>
-//           </Link>
-//         </li>
-//         <li>
-//           <Link to="/connections" className="justify-between hover:bg-gray-800 rounded-md p-2">
-//                     Connections <span className="badge badge-error">💗</span>
-//           </Link>
-//         </li>
-//         <li>
-//           <Link to="/requests" className="justify-between hover:bg-gray-800 rounded-md p-2">
-//                     Requests <span className="badge badge-warning">👁️</span>
-//           </Link>       
-//         </li>
-//         <li><a onClick={handleLogout}>Logout</a></li>
-//       </ul>
-//     </div>
-//   )}
-//   </div>
-// </div>
 <div className="fixed top-0 left-0 w-full bg-neutral text-white shadow-lg z-50">
       <div className="navbar px-5 flex justify-between">
         {/* Logo */}
