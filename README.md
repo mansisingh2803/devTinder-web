@@ -50,4 +50,9 @@
 - chmod 400 "secret key"
 - connected to machine through cmd ssh -i "Codemate-secret.pem" ubuntu@ec2-13-211-170-51.ap-southeast-2.compute.amazonaws.com
 - Install Node version 22.14.0
+
+# Backend
+- do npm install
+- npm run start
+
           
